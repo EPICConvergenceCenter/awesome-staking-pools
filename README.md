@@ -15,3 +15,6 @@ Awesome Archive of Staking Pools
 
 ## Staking Pool Reward Engineering
 - https://github.com/weiWard/weiward-staked-rewards-pool
+
+## Staking Pool Workflow
+- https://github.com/AntoniosHadji/ethereum-staking-smart-contract
