@@ -4,6 +4,9 @@ Awesome Archive of Staking Pools
 ## Prominent Staking Pools
 - https://www.bitcoinmarketjournal.com/crypto-staking-pool/
 
+## Simple Staking Pools
+- https://github.com/nordicenergy/staking-pool/
+
 ## Ethereum 2.0 Staking Pools
 - https://blog.shrimpy.io/blog/the-best-ethereum-20-staking-pools
 
