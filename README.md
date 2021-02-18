@@ -18,3 +18,6 @@ Awesome Archive of Staking Pools
 
 ## Staking Pool Workflow
 - https://github.com/AntoniosHadji/ethereum-staking-smart-contract
+
+## ERC 20 Staking Pool with Priceless Oracle Transmission
+- https://github.com/freight-chain/erc-pool
