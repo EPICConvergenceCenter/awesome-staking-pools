@@ -12,3 +12,6 @@ Awesome Archive of Staking Pools
 
 ## Rocket Pool for Ethereum 2.0
 - https://cryptobriefing.com/defi-project-spotlight-rocket-pool-staking-service-ethereum-2-0/
+
+## Staking Pool Reward Engineering
+- https://github.com/weiWard/weiward-staked-rewards-pool
