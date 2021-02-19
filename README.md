@@ -8,6 +8,7 @@ Awesome Archive of Staking Pools
 - https://github.com/nordicenergy/staking-pool/
 - https://github.com/weiWard/weiward-staked-rewards-pool
 - https://github.com/AntoniosHadji/ethereum-staking-smart-contract
+- https://github.com/alexroan/EthereumDEX
 
 ## Ethereum 2.0 Staking Pools
 - https://blog.shrimpy.io/blog/the-best-ethereum-20-staking-pools
