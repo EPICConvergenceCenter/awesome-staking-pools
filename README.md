@@ -28,6 +28,9 @@ Awesome Archive of Staking Pools
 ## ERC 20 Staking Pool with Priceless Oracle Transmission
 - https://github.com/freight-chain/erc-pool
 
+## Matic Network Staking Economics
+- https://blog.matic.network/matic-network-staking-economics/
+
 ## Golem Staking Pool
 - https://github.com/masaun/GLM-stake-pool
 
