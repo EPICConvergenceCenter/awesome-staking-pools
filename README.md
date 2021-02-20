@@ -30,3 +30,6 @@ Awesome Archive of Staking Pools
 
 ## Golem Staking Pool
 - https://github.com/masaun/GLM-stake-pool
+
+## Staking Pool Consensus Research
+- https://ethresear.ch/t/trustless-staking-pools-with-a-consensus-layer-and-slashed-pool-participant-replacement/7198
